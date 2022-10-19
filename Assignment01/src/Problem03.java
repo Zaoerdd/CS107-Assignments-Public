@@ -32,5 +32,6 @@ public class Problem03 {
                 System.out.println("No");
             }
         }
+        input.close();
     }
 }

@@ -9,5 +9,6 @@ public class Problem01 {
             int month = input.nextInt();
             System.out.println(yMonth[month]);
         }
+        input.close();
     }
 }

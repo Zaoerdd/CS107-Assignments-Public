@@ -20,5 +20,6 @@ public class Problem04 {
             }
         }
         System.out.printf("A: %d\nB: %d\nC: %d\nD: %d\n", a, b, c, d);
+        input.close();
     }
 }

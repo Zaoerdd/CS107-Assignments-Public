@@ -16,5 +16,6 @@ public class Problem02 {
             y = k * x + b;
             System.out.printf("%.1f\n", y);
         }
+        input.close();
     }
 }
